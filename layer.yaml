@@ -1,0 +1,2 @@
+name: ceph-mon
+includes: ['layer:ceph-basic']
